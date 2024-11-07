@@ -1,7 +1,7 @@
 ---
 title: "My First Blog Post"
 date: "2024-11-07"
-tags: ["react", "markdown", "blogging"]
+tags: "blogging"
 ---
 
 # My First Blog Post
