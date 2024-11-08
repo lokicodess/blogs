@@ -33,6 +33,7 @@ Blogging is a great way to share knowledge, document learning, and build a perso
 
 Here’s a simple code snippet to demonstrate syntax highlighting in Markdown. This is especially useful for technical blogs where code readability matters.
 
+
 ```javascript
 // A simple React component
 import React from 'react';
@@ -42,3 +43,55 @@ const HelloWorld = () => {
 };
 
 export default HelloWorld;
+
+---
+
+## Code Example
+
+Here’s a simple code snippet to demonstrate syntax highlighting in Markdown. This is especially useful for technical blogs where code readability matters.
+
+
+```javascript
+// A simple React component
+import React from 'react';
+
+const HelloWorld = () => {
+  return <h1>Hello, World!</h1>;
+};
+
+export default HelloWorld;
+
+---
+
+## Code Example
+
+Here’s a simple code snippet to demonstrate syntax highlighting in Markdown. This is especially useful for technical blogs where code readability matters.
+
+
+```javascript
+// A simple React component
+import React from 'react';
+
+const HelloWorld = () => {
+  return <h1>Hello, World!</h1>;
+};
+
+export default HelloWorld;
+
+---
+
+## Code Example
+
+Here’s a simple code snippet to demonstrate syntax highlighting in Markdown. This is especially useful for technical blogs where code readability matters.
+
+
+```javascript
+// A simple React component
+import React from 'react';
+
+const HelloWorld = () => {
+  return <h1>Hello, World!</h1>;
+};
+
+export default HelloWorld;
+
