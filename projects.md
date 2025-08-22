@@ -1,6 +1,20 @@
 [
+{
+    "id": 1,
+    "title": "Real-Time Sentiment Dashboard",
+    "tech": ["MERN", "NLP", "AWS"],
+    "preview": "https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif",
+    "description": "Monitors Twitter for sentiment analysis via NLP.",
+    "problem": "No easy way to visualize public opinion in real time.",
+    "solution": "Uses Node.js, React and NLP models for live updates.",
+    "results": "Analyzed 10K tweets/day with 95% accuracy.",
+    "github": "https://github.com/yourusername/sentiment-dashboard",
+    "demo": "#",
+    "architecture": "MERN stack app with AWS for hosting and data storage.",
+    "screenshots": ["https://placehold.co/400x200"]
+  },
   {
-"id": 1,
+"id": 2,
 "title": "SoundScript — Audio Transcription & Summarization",
 "tech": ["React", "Flask", "Gunicorn", "Nginx", "AWS EC2", "Python", "Whisper"],
 "preview": "https://soundscript.me",
