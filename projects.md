@@ -12,5 +12,5 @@
 "demo": "https://soundscript.me",
 "architecture": "React app on soundscript.me calls API at api.soundscript.me. Nginx terminates TLS and proxies to Gunicorn on 127.0.0.1:8000 running Flask endpoints (/transcribe, /summarize). Certificates via Certbot.",
 "screenshots": ["https://streamable.com/db7qhp"]
-},
+}
 ]
