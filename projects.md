@@ -1,23 +1,9 @@
 [
-{
-    "id": 1,
-    "title": "Real-Time Sentiment Dashboard",
-    "tech": ["MERN", "NLP", "AWS"],
-    "preview": "https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif",
-    "description": "Monitors Twitter for sentiment analysis via NLP.",
-    "problem": "No easy way to visualize public opinion in real time.",
-    "solution": "Uses Node.js, React and NLP models for live updates.",
-    "results": "Analyzed 10K tweets/day with 95% accuracy.",
-    "github": "https://github.com/yourusername/sentiment-dashboard",
-    "demo": "#",
-    "architecture": "MERN stack app with AWS for hosting and data storage.",
-    "screenshots": ["https://placehold.co/400x200"]
-  },
   {
-"id": 2,
+"id": 1,
 "title": "SoundScript — Audio Transcription & Summarization",
 "tech": ["React", "Flask", "Gunicorn", "Nginx", "AWS EC2", "Python", "Whisper"],
-"preview": "https://streamable.com/db7qhp?src=player-page-share",
+"preview": "https://soundscript-media.s3.us-east-1.amazonaws.com/ScreenRecording2025-08-22at10.11.34AM-ezgif.com-video-to-gif-converter.gif",
 "description": "Uploads audio, transcribes speech to text, and generates concise summaries via a secure HTTPS API.",
 "problem": "Turning recordings into readable notes is slow and error‑prone without automation.",
 "solution": "A browser frontend uploads audio to a Flask API; the backend performs transcription and returns summaries, all behind Nginx with TLS.",
