@@ -8,6 +8,13 @@
         "author": "Krish Naik",
         "type": "course",
         "codeLink": "https://www.udemy.com/course/complete-generative-ai-course-with-langchain-and-huggingface/?couponCode=KEEPLEARNING"
+      },
+      {
+        "id": 2,
+        "title": "Algorithms and Data Structures for Beginners",
+        "author": "Neetcode",
+        "type": "course",
+        "codeLink": "https://neetcode.io/courses/dsa-for-beginners/"
       }
     ]
   }
