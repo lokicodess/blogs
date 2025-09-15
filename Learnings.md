@@ -17,5 +17,17 @@
         "codeLink": "https://neetcode.io/courses/dsa-for-beginners/"
       }
     ]
+  },
+  {
+    "month": "AUGUST 2025",
+    "items": [
+      {
+        "id": 1,
+        "title": "Let's Go ",
+        "author": "Alex Edwards",
+        "type": "book",
+        "codeLink": "https://lets-go.alexedwards.net/"
+      }
+    ]
   }
 ]
