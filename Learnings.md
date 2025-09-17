@@ -19,7 +19,7 @@
     ]
   },
   {
-    "month": "AUGUST 2025",
+    "month": "SEPTEMBER 2025",
     "items": [
       {
         "id": 1,
