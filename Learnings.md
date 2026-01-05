@@ -36,6 +36,7 @@
       {
         "id": 1,
         "title": "URL Shortner",
+         "author": "Project",
         "type": "project",
         "codeLink": "https://github.com/lokicodess/url-shortner.git"
       }
