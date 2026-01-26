@@ -39,6 +39,13 @@
          "author": "Project",
         "type": "project",
         "codeLink": "https://github.com/lokicodess/url-shortner.git"
+      },
+      {
+        "id": 2,
+        "title": "The Linux Command Line",
+         "author": "William E. Shotts Jr. and William E. Shotts",
+        "type": "book",
+        "codeLink": "https://github.com/santosh373/Linux-Basics/blob/master/The%20Linux%20Command%20Line%2C%20A%20Complete%20Introduction%202nd%20(2013).pdf"
       }
     ]
   }
