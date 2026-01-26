@@ -31,7 +31,7 @@
     ]
   },
    {
-    "month": "JAN 2026",
+    "month": "JANUARY 2026",
     "items": [
       {
         "id": 1,
