@@ -48,5 +48,17 @@
         "codeLink": "https://github.com/santosh373/Linux-Basics/blob/master/The%20Linux%20Command%20Line%2C%20A%20Complete%20Introduction%202nd%20(2013).pdf"
       }
     ]
+  },
+  {
+    "month": "FEBRUARY 2026",
+    "items": [
+      {
+        "id": 1,
+        "title": "Mastering Shell Scripting: From Basics to Automation",
+         "author": "Vimal Daga",
+        "type": "course",
+        "codeLink": "https://www.udemy.com/course/mastering-shell-scripting-from-basics-to-automation/"
+      }
+    ]
   }
 ]
